@@ -1,3 +1,6 @@
+HOW TO COMMIT FILES TO GITHUB HERE IS GOOD LINK READ IT FIRST TIMERS
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-push-an-existing-project-to-GitHub
+-----------------------------------------------------------------------------------------------------------------------
 Pushed First Commit to Github With 'git push -f origin main' WHY
 *"The tip of your current branch is behind its remote counterpart"* means that there have been changes on the remote branch that you don’t have locally. 
 And Git tells you to import new changes from REMOTE and merge it with your code and then push it to remote.
