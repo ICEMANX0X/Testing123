@@ -5,3 +5,6 @@ And Git tells you to import new changes from REMOTE and merge it with your code 
 You can use this command to force changes to the server with the local repository (). remote repo code will be replaced with your local repo code.
 'git push -f origin main'
 With the -f tag you will override the remote branch code with your local repo code.
+
+
+https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind-its-remot
